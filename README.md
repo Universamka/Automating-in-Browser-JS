@@ -5,6 +5,5 @@
 2. document.getElementsByClassName('test');
 3. document.getElementsByName('test');
 4. document.getElementsByTagName('test');
-1. document.querySelector('.toggle');
-2. document.querySelectorAll('.toggle');
-   ---
+5. document.querySelector('.toggle');
+6. document.querySelectorAll('.toggle');
